@@ -17,7 +17,7 @@
 ---
 
 ### 📌 Recent Projects  
-🚀 **[School Management System](https://github.com/abuba-akar0/school-management-system)** (Java)  
+🚀 **[School Management System](https://github.com/abuba-akar0/SchoolMangementSystem)** (Java)  
 📊 **[Chat Application](https://github.com/abuba-akar0/ChatApplication)** (Java)   
 
 --- 
