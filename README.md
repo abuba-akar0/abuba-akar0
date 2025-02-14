@@ -5,12 +5,28 @@
   <img src="https://komarev.com/ghpvc/?username=abuba-akar0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Web Application Development**  
 - 🌱 I’m learning **MySQL, Node.js, React.js, Django (Python)**  
 - 🤝 I’m looking for collaboration on **Web Development Projects**  
 - 💻 Check out my projects: [GitHub Repositories](https://github.com/abuba-akar0?tab=repositories)  
 - 📫 Reach me at: **abubakarjamil79@gmail.com**  
+
+---
+
+### 📌 Recent Projects  
+🚀 **[School Management System](https://github.com/abuba-akar0/school-management-system)** (React.js, Django, MySQL)  
+📊 **[Expense Tracker](https://github.com/abuba-akar0/expense-tracker)** (MERN Stack)  
+🛒 **[E-Commerce Website](https://github.com/abuba-akar0/ecommerce-site)** (Node.js, Express.js, MongoDB)  
+
+---
+
+### 📜 Certifications & Courses  
+✔ **[Python for Everybody - University of Michigan](https://www.coursera.org/learn/python-for-everybody)**  
+✔ **[Web Development with React - Meta](https://www.coursera.org/learn/react-basics)**  
+✔ **[Database Design & Management - Udemy](https://www.udemy.com/course/database-design/)**  
 
 ---
 
@@ -56,18 +72,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuba-akar0&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
