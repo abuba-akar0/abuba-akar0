@@ -17,16 +17,10 @@
 ---
 
 ### 📌 Recent Projects  
-🚀 **[School Management System](https://github.com/abuba-akar0/school-management-system)** (React.js, Django, MySQL)  
-📊 **[Expense Tracker](https://github.com/abuba-akar0/expense-tracker)** (MERN Stack)  
-🛒 **[E-Commerce Website](https://github.com/abuba-akar0/ecommerce-site)** (Node.js, Express.js, MongoDB)  
+🚀 **[School Management System](https://github.com/abuba-akar0/school-management-system)** (Java)  
+📊 **[Chat Application](https://github.com/abuba-akar0/ChatApplication)** (Java)   
 
----
-
-### 📜 Certifications & Courses  
-✔ **[Python for Everybody - University of Michigan](https://www.coursera.org/learn/python-for-everybody)**  
-✔ **[Web Development with React - Meta](https://www.coursera.org/learn/react-basics)**  
-✔ **[Database Design & Management - Udemy](https://www.udemy.com/course/database-design/)**  
+--- 
 
 ---
 
