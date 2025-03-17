@@ -1,78 +1,69 @@
-<h1 align="center">Hi 👋, I'm Abubakar Ahmad</h1>
-<h3 align="center">A Passionate Computer Science Student & Web Developer</h3>
+<h1 align="center">🚀 Hey there, I'm Abubakar Ahmad! 👋</h1>
+<h3 align="center">Computer Science Student | Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abuba-akar0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-### 🚀 About Me  
-- 🔭 I’m currently working on **Web Application Development**  
-- 🌱 I’m learning **MySQL, Node.js, React.js, Django (Python)**  
-- 🤝 I’m looking for collaboration on **Web Development Projects**  
-- 💻 Check out my projects: [GitHub Repositories](https://github.com/abuba-akar0?tab=repositories)  
-- 📫 Reach me at: **abubakarjamil79@gmail.com**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Web+Developer;AI+Enthusiast;Open+Source+Contributor;Tech+Explorer;Let's+Build+Something+Awesome!" alt="Typing Animation" />
+</p>
 
 ---
 
-### 📌 Recent Projects  
-🚀 **[School Management System](https://github.com/abuba-akar0/SchoolMangementSystem)** (Java)  
-📊 **[Chat Application](https://github.com/abuba-akar0/ChatApplication)** (Java)   
+## 🌍 Connect & Collaborate 🤝  
 
---- 
-
----
-
-### 📫 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://dev.to/abuba_kar0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
   <a href="https://linkedin.com/in/abuba0kar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/abuba.akar0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/abuba_akar0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools  
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
+## 🚀 Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,django,mysql,git,github,vscode,linux,docker" alt="Tech Stack"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abuba-akar0&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuba-akar0&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abuba-akar0&theme=dracula&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
-⭐️ **Feel free to explore my repositories and connect with me!** 🚀  
+## 📈 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abuba-akar0&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## ✨ Fun Fact  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+</p>
+
+---
+
+⭐ **Explore my repositories, collaborate, and let's innovate together!** 🚀
